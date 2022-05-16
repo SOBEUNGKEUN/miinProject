@@ -26,7 +26,7 @@ public class MapView {
 	}
 	
 	public void successPage() {
-		System.out.println("정상 등록 되었습니다.");
+		System.out.println("정상 등록 되었습니다!!!!.");
 	}	
 
 	public void errorPage(Exception error) {
