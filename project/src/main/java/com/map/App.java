@@ -16,5 +16,6 @@ public class App {
 		
 		long userId = 1L;
 		mapController.deleteUser(userId);
+		System.out.println("세운_수정내용");
 	}
 }
