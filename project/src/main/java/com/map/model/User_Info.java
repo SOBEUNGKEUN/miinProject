@@ -72,6 +72,5 @@ public class User_Info {
 	public String toString() {
 		return "User_Info [user_home=" + user_home + ", user_w3w=" + user_w3w + ", user_latitude=" + user_latitude
 				+ ", user_longitude=" + user_longitude + "]";
-		System.out.println("세운_수정내용");
 	}
 }

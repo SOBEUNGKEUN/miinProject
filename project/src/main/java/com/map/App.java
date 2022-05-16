@@ -18,5 +18,6 @@ public class App {
 		mapController.deleteUser(userId);
 		System.out.println("세운_수정내용");
 		System.out.println("세운_수정내용선브랜치푸시");
+		System.out.println("세운_3트");
 	}
 }
