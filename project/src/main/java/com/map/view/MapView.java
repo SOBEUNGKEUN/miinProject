@@ -33,6 +33,6 @@ public class MapView {
 		System.out.println("문제가 발생하였습니다." + error.getMessage());
 	}
 	public void delete(int deletedTodo) {
-		System.out.println("정상 삭제 되었습니다.");
+		System.out.println("정상 삭제 되었습니다!.");
 	}
 }
