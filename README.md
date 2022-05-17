@@ -16,7 +16,7 @@
 2. 데이터 C,R,U,D 구현
 3. User와 학원까지의 소요거리 평균값 구현
 4. 학원으로부터 제일 멀리 사는유저의 정보와 제일 가깝게 사는 유저의 정보를 출력
-5. MVC 패턴 적용
+5. MVC 패턴, Builder 패턴 적용
 
 ## ER Diagram  
 ![12](https://user-images.githubusercontent.com/102494027/168770375-625b30f2-a78a-411a-9ca2-d0460160bebd.JPG)
@@ -42,11 +42,11 @@ Java 문법과 SQL 문법을 동시에 생각하며 질의를 작성하고 테�
 
 ---
 
-![GitHub](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fa.slack-edge.com%2F80588%2Fimg%2Funfurl_icons%2Fgithub.png)GitHub
 
-[95Glory - Overview](https://github.com/95Glory)
 
-95Glory has 5 repositories available. Follow their code on GitHub.
+[https://github.com/95Glory]
+
+
 
 ![GitHub](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fa.slack-edge.com%2F80588%2Fimg%2Funfurl_icons%2Fgithub.png)GitHub
 
