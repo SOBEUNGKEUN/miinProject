@@ -1,6 +1,6 @@
-# BackEnd Project
+# BackEnd Project🔨
 ## User들과 학원의 거리 DataBase 구축
-## 프로젝트 목표
+## 🚩프로젝트 목표
 **Java**와 **MySQL**을 연동하고, **MVC 패턴을 활용**해 간단한 **CRUD 기능 구현**해본다.
 ## Team members  
 김영광 (GitHub Url : [https://github.com/95Glory](https://github.com/95Glory))  
@@ -11,7 +11,7 @@
 ## TechStack  
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-## Requirements  
+## 🚩 Requirements  
 1. 유저들의 정보를 담고있는 테이블과 거리관련 테이블을 분리.
 2. 데이터 C,R,U,D 구현
 3. User와 학원까지의 소요거리 평균값 구현
@@ -21,7 +21,7 @@
 ## ER Diagram  
 ![12](https://user-images.githubusercontent.com/102494027/168770375-625b30f2-a78a-411a-9ca2-d0460160bebd.JPG)
 
-## Review
+## 🚩 Review
 ### 김영광![:남성:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f468.png)  
 자바언어를 학습 및 DBMS를 사용하여 SQL의 기본적인 문법을 학습하고 JAVA와 연동하여 데이터베이스를 들었다. 수업을 들을 때에는 충분히 있는 수준의 배운 지식을 활용하여 나만의 방식으로 프로젝트를 여전히 나에겐 너무 어려운 과제로 다가왔다.  
 Java 문법과 SQL 문법을 동시에 생각하며 질의를 작성하고 테이블 간 연관관계를 파악하여 데이터를 가공하는 일련의 작업을 진행할 때는, 내가 생각하는 데이터의 출력이 나오고부터 이 프로젝트에 상당한 흥미가 더욱 생겼던 것 같다.  
