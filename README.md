@@ -43,25 +43,3 @@ Java 문법과 SQL 문법을 동시에 생각하며 질의를 작성하고 테�
 ---
 
 
-
-[https://github.com/95Glory]
-
-
-
-![GitHub](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fa.slack-edge.com%2F80588%2Fimg%2Funfurl_icons%2Fgithub.png)GitHub
-
-[SeunLee9 - Overview](https://github.com/SeunLee9)
-
-Data Engineer Aspirant. SeunLee9 has 6 repositories available. Follow their code on GitHub.
-
-![GitHub](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fa.slack-edge.com%2F80588%2Fimg%2Funfurl_icons%2Fgithub.png)GitHub
-
-[woowsnu - Overview](https://github.com/woowsnu)
-
-woowsnu has 2 repositories available. Follow their code on GitHub.
-
-![GitHub](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fa.slack-edge.com%2F80588%2Fimg%2Funfurl_icons%2Fgithub.png)GitHub
-
-[SOBEUNGKEUN - Overview](https://github.com/SOBEUNGKEUN)
-
-빅데이터 개발자. SOBEUNGKEUN has 4 repositories available. Follow their code on GitHub.
