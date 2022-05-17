@@ -19,8 +19,7 @@
 5. MVC 패턴 적용
 
 ## ER Diagram  
-## ER Diagram  
-![12](https://files.slack.com/files-pri/T032WHU0K1C-F03FR2ZSPJ7/12.jpg)
+![12](https://user-images.githubusercontent.com/102494027/168770375-625b30f2-a78a-411a-9ca2-d0460160bebd.JPG)
 
 ## Review
 ### 김영광![:남성:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/google-medium/1f468.png)  
